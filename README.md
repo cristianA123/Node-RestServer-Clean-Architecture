@@ -1,7 +1,4 @@
-
-
-
-
+# Clean Architecture
 
 # Dev
 
